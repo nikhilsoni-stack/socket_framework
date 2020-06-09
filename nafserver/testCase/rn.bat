@@ -1,0 +1,1 @@
+java -classpath build\libs\testCase.jar;..\build\libs\nafserver.jar;. com.library.Main
